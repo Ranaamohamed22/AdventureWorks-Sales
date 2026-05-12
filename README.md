@@ -12,13 +12,12 @@ ________________________________________
 - Fact Returns
   
 ### Dimension Tables :
-
 - Dim Calendar
 - Dim Territory
 - Dim Product
 - Dim Customer
 
-•	DAX Measures Table :
+###	DAX Measures Table :
 -	20+ calculated measures including KPIs, averages, and time intelligence
 ________________________________________
 ### Dashboard Pages
