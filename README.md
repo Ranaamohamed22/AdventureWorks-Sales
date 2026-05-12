@@ -1,5 +1,7 @@
 🚲 AdventureWorks Sales Dashboard
+
 📊 Project Overview
+
 Interactive Power BI dashboard analyzing sales performance, customer behavior, product insights, and return analytics for AdventureWorks bike shop.
 ________________________________________
 🗂️ Data Model Architecture
