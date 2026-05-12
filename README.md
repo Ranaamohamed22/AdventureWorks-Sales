@@ -7,11 +7,11 @@ ________________________________________
 ### Data Model Architecture
 ### Star Schema Design 
 
-- Fact Tables :
+### Fact Tables :
 - Fact Sales
 - Fact Returns
   
-• Dimension Tables :
+### Dimension Tables :
 
 - Dim Calendar
 - Dim Territory
