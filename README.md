@@ -1,4 +1,4 @@
-🚲 AdventureWorks Sales Dashboard
+### AdventureWorks Sales Dashboard
 
 📊 Project Overview
 
@@ -7,10 +7,12 @@ ________________________________________
 🗂️ Data Model Architecture
 Star Schema Design: - Fact Tables: - Fact_Sales - Fact_Returns
 •	Dimension Tables:
+
 –	Dim_Calendar
 –	Dim_Territory
 –	Dim_Product
 –	Dim_Customer
+
 •	DAX Measures Table:
 –	20+ calculated measures including KPIs, averages, and time intelligence
 ________________________________________
