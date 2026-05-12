@@ -1,6 +1,6 @@
 ### AdventureWorks Sales Dashboard
 
-###📊 Project Overview
+### 📊 Project Overview
 
 Interactive Power BI dashboard analyzing sales performance, customer behavior, product insights, and return analytics for AdventureWorks bike shop.
 ________________________________________
@@ -13,10 +13,10 @@ ________________________________________
   
 • Dimension Tables:
 
--Dim_Calendar
--	Dim_Territory
--	Dim_Product
--Dim_Customer
+- Dim_Calendar
+- Dim_Territory
+- Dim_Product
+- Dim_Customer
 
 •	DAX Measures Table:
 -	20+ calculated measures including KPIs, averages, and time intelligence
