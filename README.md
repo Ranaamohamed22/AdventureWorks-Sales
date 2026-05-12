@@ -5,11 +5,11 @@
 Interactive Power BI dashboard analyzing sales performance, customer behavior, product insights, and return analytics for AdventureWorks bike shop.
 ________________________________________
 ### Data Model Architecture
-• Star Schema Design :
+### Star Schema Design 
 
-- Fact Tables:
-- Fact_Sales
-- Fact_Returns
+• Fact Tables :
+- Fact Sales
+- Fact Returns
   
 • Dimension Tables :
 
