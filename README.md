@@ -61,7 +61,7 @@ ________________________________________
 ________________________________________
 ### Screenshots
 ### Data Model
-assets/screenshots/datamodel.png
+![Data Model](assets/screenshots/datamodel.png)
 ### Overview Dashboard
 assets/screenshots/overview.png
 ### Customer Analysis
