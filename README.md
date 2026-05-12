@@ -63,25 +63,27 @@ ________________________________________
 ### Data Model
 ![Data Model](assets/screenshots/datamodel.png)
 ### Overview Dashboard
-assets/screenshots/overview.png
+![Overview Dashboard](assets/screenshots/overview.png)
 ### Customer Analysis
-assets/screenshots/customers.png 
+![Customer Analysis](assets/screenshots/customers.png)
 ### Product Insights
-assets/screenshots/product.png
-Sales & Returns
-assets/screenshots/sales.png
+![Product Insights](assets/screenshots/product.png)
+### Sales & Returns
+![Sales & Returns](assets/screenshots/sales.png)
 ____________________________________________________
-🎥 Demo Video
-Watch Dashboard Demo
+### Demo Video
+https://drive.google.com/file/d/10bAW_dQV5AM253r4mkhngR0bHwtZeCsY/view?usp=sharing
 ___________________________________________________
+
+### Project File
+
+https://drive.google.com/file/d/10bAW_dQV5AM253r4mkhngR0bHwtZeCsY/view?usp=sharing
+_________________________________________________
 ### How to Use
 1.	Download the .pbit file
 2.	Open in Power BI Desktop
 3.	Connect to your data source
 4.	Refresh to load your data
 ________________________________________
-📸 Screenshots
-See assets/screenshots/ folder for full dashboard images
-________________________________________
-##3 Author
+### Author
 Rana Mohamed - Data Analyst
