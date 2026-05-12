@@ -65,7 +65,7 @@ assets/screenshots/datamodel.png
 ### Overview Dashboard
 assets/screenshots/overview.png
 ### Customer Analysis
-assets/screenshots/customers.png
+assets/screenshots/customers.png 
 ### Product Insights
 assets/screenshots/product.png
 Sales & Returns
