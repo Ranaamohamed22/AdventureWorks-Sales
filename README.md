@@ -7,16 +7,16 @@ ________________________________________
 ### Data Model Architecture
 ### Star Schema Design 
 
-• Fact Tables :
+- Fact Tables :
 - Fact Sales
 - Fact Returns
   
 • Dimension Tables :
 
-- Dim_Calendar
-- Dim_Territory
-- Dim_Product
-- Dim_Customer
+- Dim Calendar
+- Dim Territory
+- Dim Product
+- Dim Customer
 
 •	DAX Measures Table :
 -	20+ calculated measures including KPIs, averages, and time intelligence
