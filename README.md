@@ -5,29 +5,29 @@
 Interactive Power BI dashboard analyzing sales performance, customer behavior, product insights, and return analytics for AdventureWorks bike shop.
 ________________________________________
 ### Data Model Architecture
-• Star Schema Design:
+• Star Schema Design :
 
 - Fact Tables:
 - Fact_Sales
 - Fact_Returns
   
-• Dimension Tables:
+• Dimension Tables :
 
 - Dim_Calendar
 - Dim_Territory
 - Dim_Product
 - Dim_Customer
 
-•	DAX Measures Table:
+•	DAX Measures Table :
 -	20+ calculated measures including KPIs, averages, and time intelligence
 ________________________________________
 ### Dashboard Pages
 
 ## 1. Overview Page
 	Total Sales: 25M
-•	Total Quantity: 84K
-•	Total Customers: 18K
-•	Total Products: 293
+	Total Quantity: 84K
+	Total Customers: 18K
+	Total Products: 293
 •	Visuals: Gender distribution, monthly trends, category breakdown, regional map
 
 ## 2. Customer Page
@@ -36,13 +36,13 @@ ________________________________________
 •	Average Income: $57.27K
 •	Activation Rate: 95.97%
 •	Visuals: Education level, occupation, home ownership, top 10 customers
-4. Product Page
+## 3. Product Page
 •	Sold Units: 25M
 •	Total Products: 293
 •	Sub Categories: 37
 •	Average Unit Cost: $414
 •	Visuals: Category hierarchy, sales by category, color analysis
-5. Sales & Returns Page
+## 4. Sales & Returns Page
 •	Total Sales: 24.91M
 •	Total Returns: 765.28K
 •	Return Rate: 3.23%
